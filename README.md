@@ -4,6 +4,10 @@
 
 <!-- I'm a Software Engineer, Content Creator, and Community Engineer who currently works as a Developer Advocate at [Commerce Layer](https://commercelayer.io). I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others. I create technical content (on my [Blog](https://bolajiayodeji.com/), [Newsletter](https://bawd.bolajiayodeji.com), and [YouTube](https://www.youtube.com/c/bolajiayodeji)), build useful [open-source projects](https://github.com/BolajiAyodeji), speak at some meetups/conferences, build technical communities... -->
 
+I am Kelvin Mark, a Petroleum Engineering student with a passion for tech. I spent about 2 years self-teaching front-end development, working with HTML, CSS, and JavaScript, before joining AltSchool to gain structured guidance and accelerate my learning. While I’ve been using [CodePen](https://www.codepen.io/kelvin_mark_619)to share my work because I find it easier, I’m also exploring GitHub to expand my tools.
+
+
+
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
